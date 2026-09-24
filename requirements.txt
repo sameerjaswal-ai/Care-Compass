@@ -1,0 +1,7 @@
+streamlit
+bcrypt
+mysql-connector-python
+python-dotenv
+folium
+streamlit-folium
+geopy
